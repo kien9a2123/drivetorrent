@@ -10,3 +10,6 @@ Download torrents to your Google Drive directly
 4. Replace the fields in `data/driveCredentials.json` with your registered `clientId` and `clientSecret`.
 5. If you are running the project on a remote server, set the environmental variable `DRIVE_REDIRECT_URI=[insert your host origin here]/login-callback`.
 6. Run `npm start`. Enjoy!
+## INSTALLAZIONE
+
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
